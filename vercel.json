@@ -5,7 +5,8 @@
   "trailingSlash": false,
   "redirects": [
     { "source": "/auto-configuration", "destination": "/reports/sc-auto-campaign-configuration-2026-09-30", "permanent": false },
-    { "source": "/home-configuration", "destination": "/reports/sc-home-campaign-configuration-2026-09-30", "permanent": false }
+    { "source": "/home-configuration", "destination": "/reports/sc-home-campaign-configuration-2026-09-30", "permanent": false },
+    { "source": "/geographic-targeting", "destination": "/reports/geographic-targeting-2026-10-12", "permanent": false }
   ],
   "headers": [
     {
